@@ -93,6 +93,14 @@
 				mp3: 'music/Rg0DAFS628-AScs9AEoMZ1ZAFvY539.mp3',
 				ogg: ''
 			},
+			{
+				title: '痴心绝对',
+				artist: '李圣杰',
+				album: '痴心绝对.mp3',
+				cover: 'http://img1.kuwo.cn/star/starheads/120/6/7a298d1c55dc5d18094a3514d818475_0.jpg',
+				mp3: 'music/3455305752.mp3',
+				ogg: ''
+			},
 		];
 
 	// Load playlist
