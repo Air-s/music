@@ -101,6 +101,14 @@
 				mp3: 'music/3455305752.mp3',
 				ogg: ''
 			},
+			{
+				title: '好人好梦',
+				artist: '孙悦 邰正宵',
+				album: '好人好梦.mp3',
+				cover: 'https://p3fx.kgimg.com/stdmusic/20150717/20150717221309944073.jpg',
+				mp3: 'music/2017112713195011783681.mp3',
+				ogg: ''
+			},
 		];
 
 	// Load playlist
